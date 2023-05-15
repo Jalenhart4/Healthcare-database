@@ -14,6 +14,15 @@ My team and I were tasked to design and create a relational database , populate 
 * MySQL
 * MySQL Workbench
 
+### Executing the program 
+
+* Open Mysql workbench
+* Create a connection instance
+* Download the create-and-populate.sql script file
+* Open Mysql , go to the File tab > Open SQL Script > choose create-and-populate.sql 
+* CTRL + A to highlight all of the text in the editor 
+* Query tab > Execute all
+
 ## Authors
 
 Sam Prisco 
