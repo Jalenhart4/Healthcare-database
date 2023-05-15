@@ -23,6 +23,11 @@ My team and I were tasked to design and create a relational database , populate 
 * CTRL + A to highlight all of the text in the editor 
 * Query tab > Execute all
 
+* Download a query file from the SQL queries folder
+* Open Mysql , go to the File tab > Open SQL Script > choose the sql query file you chose in the last step.
+* Query tab > Execute all
+* See results
+
 ## Authors
 
 Sam Prisco 
